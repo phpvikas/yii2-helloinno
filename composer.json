@@ -1,0 +1,21 @@
+{
+    "name": "innovify/yii2-helloinno",
+    "description": "Hello Innovify Extension for yii2 framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vikas Chaudhary",
+            "email": "vikas.c@innovify.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "\\innovify\\helloinno\\": ""
+        }
+    }
+}
